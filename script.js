@@ -32,7 +32,7 @@ function cal() {
     } else if (grade >= 74) {
         document.getElementById("demo1").innerHTML = "C+";
     } else if (grade >= 70) {
-        document.getElementById("demo1").innerHTML = "A";
+        document.getElementById("demo1").innerHTML = "C";
     } else {
         document.getElementById("demo1").innerHTML = "F";
     }
